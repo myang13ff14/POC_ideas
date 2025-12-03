@@ -1,0 +1,386 @@
+[
+  {
+    "category": "Account Data Insights",
+    "question": "Which product families in the customer\u2019s historical purchases show declining engagement, and how does that signal a potential refresh cycle?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What anomalies can be detected in year-over-year spending that might indicate a shift toward competitors?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we evaluate the customer\u2019s device age distribution to uncover near-term ThinkPad or ThinkBook refresh opportunities?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where does the customer consistently under-index compared to industry averages in workstation adoption?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we assess attach-rate gaps for Premier Support across regions to quantify new revenue potential?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What patterns in their warranty expiration timeline signal bulk renewals coming due within six months?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which departments within the account experience the highest device failure rates, and how can that inform new fleet recommendations?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we detect shifts in buying centers that might signal new procurement stakeholders entering the process?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which server generations in their data center indicate elevated cost from aging hardware?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we identify storage clusters approaching saturation and recommend ThinkSystem storage upgrades?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What seasonal purchasing behaviors can we model to anticipate the next spike in device orders?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does their cloud vs. on\u2011prem workload distribution suggest opportunities for hybrid infrastructure modernization?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which product lines have the highest upsell velocity in similar customers within the same vertical?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How could we use renewal data to predict which warranties are at highest risk of churn?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which groups are using outdated GPUs that constrain AI/ML workflow performance?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What inefficiencies exist in their TruScale usage patterns that indicate the need for cost optimization recommendations?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How do we benchmark this customer\u2019s infrastructure consolidation progress against competitors?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which ThinkPad or ThinkStation models are approaching end\u2011of\u2011life status within the customer\u2019s fleet?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can CRM health scores reveal silent risks in their multiyear account plan?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which purchased accessories correlate with high renewal likelihood, and where are the gaps?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can pipeline velocity changes help predict upcoming budget reallocations by the customer?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which user personas show device mismatch compared to their workload intensity?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where does the customer appear to rely heavily on third\u2011party services instead of Lenovo Premier Support?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can warranty claim patterns reveal systemic issues in their deployed hardware?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What asset utilization gaps exist across the customer's distributed offices?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which workloads currently deployed on aging SR630 servers merit migration to newer SR650 V3 platforms?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How do we quantify the customer\u2019s unrealized savings from replacing non\u2011standardized device fleets?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where are they overpaying operationally due to fragmented purchasing behavior?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we forecast the next peak computing demand based on historical expansion cycles?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What buying behavior signals indicate readiness for adopting edge computing solutions?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which accounts segments show disproportionate downtime that could be reduced with Premier Support Plus?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does the customer\u2019s environmental sustainability profile align with CO\u2082 Offset opportunities?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which workgroups experience the longest repair cycle times due to outdated service contracts?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What historical trends indicate they may expand AI inference workloads to the edge?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How many ThinkCentre devices are more than five years old and likely to fail compliance standards?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which OS versions in their environment indicate exposure to security vulnerabilities?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we calculate the likely uplift if they standardized on a single docking ecosystem?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which business units are consuming disproportionate compute resources in their current cluster?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What indicators suggest upcoming investments in 3D design or simulation requiring P\u2011series workstations?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we use device telemetry to identify poor-performing systems that degrade productivity?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which regional offices lag behind in the customer\u2019s digital modernization timeline?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How do we detect churn risk from contracting order volumes in core product categories?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What customer activities indicate interest in adopting generative AI workflows?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which competitive displacements in their industry signal urgency for us to secure renewals?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where does the customer\u2019s cost per device exceed industry benchmarks?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we map procurement delays to operational bottlenecks in the customer\u2019s environment?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which virtual desktop workloads show high latency and could benefit from HX\u2011series nodes?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does historical discounting behavior signal negotiation sensitivity for future deals?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which ThinkPad configurations are consistently under\u2011ordered relative to power\u2011user needs?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where are there gaps in the customer\u2019s endpoint encryption adoption?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we assess the customer\u2019s readiness to consolidate multiple device SKUs into one global standard?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which warranty uplift options would provide the customer the most value based on downtime history?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we identify departments with device refresh delays that harm productivity?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where does the customer show rising interest in subscription\u2011based consumption models?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How many of their servers are running at suboptimal memory ratios?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What historical indicators suggest they may transition from on\u2011prem storage to hybrid architectures?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which geographically distributed teams have inconsistent device health outcomes?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where do device returns indicate potential misalignment with end\u2011user workload patterns?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we detect early signals of competitive laptop trials within the account?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which departments show disproportionate service ticket creation relative to their device count?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does cross\u2011region procurement timing indicate opportunities for synchronized global deals?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where is the customer overspending on non\u2011Lenovo accessories that could be consolidated?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which product SKUs show a sharp drop in reorder frequency and why?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can thermal performance issues reveal the need for workstation upgrades?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What percentage of their server fleet will reach end\u2011of\u2011support within the next year?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which historical patterns suggest readiness for containerized application deployments?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where can energy\u2011efficiency messaging resonate based on past sustainability statements?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can employee growth rates predict upcoming device procurement waves?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which ThinkPad lines demonstrate the highest user satisfaction and should be expanded?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What indicators suggest that the customer is evaluating alternative vendors?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which procurement delays historically align with budget freezes in the account?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does their current GPU footprint limit adoption of generative or predictive AI workloads?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which divisions are most likely to benefit from remote management capabilities?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which cloud\u2011migration signals appear in their historical orders?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we quantify device standardization benefits based on their operational complexity?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which facilities operate outdated Wi\u2011Fi 5 hardware that limits modern device performance?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where do gaps in their security stack indicate readiness for ThinkShield enhancements?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we evaluate their attach probability for extended warranties based on failure incidents?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which server racks have the highest density inefficiencies?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What metadata shows they are scaling VMs faster than physical infrastructure capacity?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where is device downtime measurably impacting a revenue\u2011generating team?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which global subsidiaries demonstrate inconsistent device lifecycle policies?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can ERP system data reveal indirect spending Lenovo could consolidate?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which ThinkAgile systems align best with the customer\u2019s current cluster expansion trend?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where do mobile workers show elevated battery degradation rates?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can we detect operational risks from outdated BIOS versions across their fleet?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which customer teams show the fastest workload growth and need workstation performance boosts?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which SKUs correlate with higher-than-average device replacement cycles?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "What changes in their regional spending distribution signal evolving strategic priorities?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How does their depreciation schedule influence timing for large refresh events?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which ThinkPad Gen-to-Gen transitions offer the strongest ROI for this account?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Where do device quantities fail to align with headcount projections?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How can telemetry reveal apps causing hardware strain across the customer\u2019s fleet?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which workloads indicate suitability for GPU\u2011accelerated platforms they haven\u2019t adopted yet?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "How do we identify procurement friction points delaying infrastructure renewals?"
+  },
+  {
+    "category": "Account Data Insights",
+    "question": "Which historical events correlate with sudden increases in technical debt for the\u5ba2\u6237?"
+  }
+]

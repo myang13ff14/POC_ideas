@@ -1,0 +1,402 @@
+[
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P1 Gen 7 support both LPDDR5x and DDR5 SO-DIMM configurations, or is the memory type fixed by the motherboard design?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which GPU configurations on the ThinkPad P16 Gen 3 require the 230W Slim Tip adapter instead of the 170W, and is this model still compatible with USB-C charging for low-power scenarios?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum eDP bandwidth supported by the X1 Carbon Gen 12, and does this restrict certain OLED panel refresh-rate options?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad T14 Gen 6 Intel support user-installable WWAN, and if so, which antennas are factory-integrated versus optional FRUs?"
+  },
+  {
+    "category": "PSREF",
+    "question": "On the P3 Tower Gen 2, how many PCIe lanes remain available for expansion when the system is configured with dual GPUs?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the T14s Gen 5 Intel support both USB4 and Thunderbolt 4, or does Thunderbolt availability vary by CPU SKU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors support simultaneous USB-C power delivery and daisy-chain MST via DisplayPort-out?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkBook 16 G8 IRL be ordered with dual-drive storage, and if yes, which SSD sizes are supported in each bay?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What are the thermal design differences between the RTX 2000 Ada and RTX 3000 Ada GPUs on the ThinkPad P1 Gen 8?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the ThinkPad X1 Yoga Gen 9 compatible with older USB-C docks such as the 40AN or 40AY, including full video bandwidth on dual-display configurations?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which Tiny desktops (M70q/M80q/M90q Gen 6) support triple external displays without requiring optional add-on I/O modules?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P16v Gen 3 support ECC memory when paired with Intel Core HX CPUs, or is ECC exclusive to Xeon configurations?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the highest nit brightness panel available for the ThinkPad X1 Carbon Gen 13, and is there a difference in color gamut between the IPS and OLED variants?"
+  },
+  {
+    "category": "PSREF",
+    "question": "For the ThinkPad L13 2-in-1 Gen 6, which CPU SKUs support AI acceleration via NPU, and how does this impact battery life under hybrid workloads?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P8 workstation support a four-DIMM per-channel configuration, and what are the resulting maximum capacities per CPU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkCentre M70s Gen 6 be configured with both internal 3.5'' HDD and M.2 SSD simultaneously, and what mounting brackets are required?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Legion Pro 7i Gen 9 support Advanced Optimus on all discrete GPU configurations or only on RTX 4080 and higher?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad models support both eSIM and physical nano-SIM slots, and is dual-SIM capability exposed in firmware?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum VRAM power envelope supported on the P1 Gen 8 when configured with the RTX 5000 Ada?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad T16 Gen 2 have any panel configurations that include hardware low-blue-light filtering instead of software-based filters?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors support integrated Ethernet pass-through when connected over USB-C?"
+  },
+  {
+    "category": "PSREF",
+    "question": "On the ThinkPad T14 Gen 6 AMD, which models support Microsoft Pluton security by default and can it be disabled?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P1 Gen 7 support 8TB total storage using two 4TB NVMe drives, and does RAID mode restrict PCIe Gen4 performance?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad models offer a PrivacyGuard panel option with 1200p or higher resolution?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkBook 14 G8 run two 4K displays at 60Hz via USB-C, or is MST bandwidth limited by the Intel U-series GPU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum supported memory configuration for the ThinkPad P16s Gen 4 AMD, and is memory dual-channel mandatory?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkVision P40w-30 support both KVM switching and simultaneous Picture-by-Picture with two USB host uplinks?"
+  },
+  {
+    "category": "PSREF",
+    "question": "For the ThinkCentre neo 55q Gen 6, which CPU SKUs support Intel vPro Enterprise rather than vPro Essentials?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Do any IdeaPad 5i or Slim 7i models support hardware-accelerated AV1 encoding on both the iGPU and dGPU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the P3 Tiny Gen 2 support dual-slot GPU configurations such as the T1000 Low Profile, and what are the thermal limits?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which Yoga Slim laptops support 140W USB-C charging, and does the included adapter match this maximum input?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the 500w Gen 5 Chromebook support both USI 2.0 pens and pressure sensitivity beyond 4,096 levels?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What are the storage performance differences between the single-SSD and dual-SSD configurations on the ThinkPad P16s Gen 5?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkCenter M80q Gen 5 support 6GHz Wi-Fi 7 adapters as optional FRUs or only via factory build?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkPad L14 Gen 6 Intel drive three 4K displays simultaneously through its HDMI and USB-C ports?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad X1 Nano Gen 4 configurations allow user-replaceable SSDs, or is the SSD always soldered from this generation forward?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkBook Plus Gen 4 Hybrid support hot-switching between Android and Windows environments without reboot?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the max power output of the USB-C ports on the ThinkVision T27h-30 when connecting high-draw laptops like P-series?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad X1 Carbon Gen 12 support RAM downclocking when mixing different rank types or is memory always uniform?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkStation P7 configurations allow installing three-slot GPUs such as the RTX 6000 Ada while maintaining airflow clearance?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Legion Slim 7i Gen 9 support G-Sync over HDMI 2.1, or only via USB-C/DP alt mode?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What are the FRU differences between the ThinkPad X1 Yoga Gen 8 and Gen 9 keyboards, and are they interchangeable?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkVision M14d support USB-C passthrough charging while outputting 2K resolution at 60Hz?"
+  },
+  {
+    "category": "PSREF",
+    "question": "For the P1 Gen 8, which GPU SKUs require the vapor-chamber cooling system rather than the standard dual-fan assembly?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad T-series models still support mechanical side-docking solutions, if any, or is everything USB-C now?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum SSD capacity supported in the ThinkBook 13x Gen 4, and is the drive single-sided only?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors support hardware color calibration via X-Rite tools?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad E14 Gen 7 Intel have different WWAN antenna availability across regional models?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which Lenovo Chromebooks support 8GB RAM upgrades, and which models have fully soldered memory with no options?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkCentre M90a Pro Gen 4 AIO support a second internal SSD while retaining the standard 2.5'' HDD cage?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Do any Legion laptops support liquid-metal TIM from factory, or is it exclusive to Slim/Pro lines?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the ThinkPad Z13 Gen 2 compatible with Lenovo's ThinkPad 135W USB-C Dock under full GPU load?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What are the exact battery watt-hour options for the ThinkPad P14s Gen 5 Intel, and do any SKUs support Fast Charge?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkVision P34w-30 support dual-host KVM switching with two USB-C inputs simultaneously?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum resolution supported via HDMI on the ThinkPad T14 Gen 5 AMD compared to the Intel variant?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkStation P3 Tower Gen 2 support both SATA HDD and PCIe Gen5 SSD simultaneously without bandwidth throttling?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors include built-in 5MP webcams with privacy shutters and dual noise-canceling mics?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Legion 9i Gen 9 support both NVIDIA Advanced Optimus and G-Sync simultaneously on external monitors?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkBook models support 64GB RAM configurations, and are these dual-channel by default?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad T14 Gen 6 Intel allow 100W charging from third-party USB-C adapters, or is Lenovo Smart Charging required?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the P1 Gen 8 run an 8K external display at 60Hz over USB-C, or is HDMI 2.1 required to achieve that resolution?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What GPU options on the ThinkStation P8 require a 1,000W PSU instead of the base PSU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad X1 Carbon models support Wi-Fi 7, and is this available globally or region-restricted?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkVision S27q-20 support HDR10, or is HDR only available on the P-series monitors?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum panel refresh rate available for the Legion Y series, and does this require a specific GPU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad models still include a native RJ-45 port and which require a dongle?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P14s Gen 4 AMD support dual external 6K monitors, or is it capped at 4K outputs?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the Yoga 9i Gen 9 compatible with the Lenovo Slim 135W GaN USB-C charger?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkStations support the NVIDIA RTX 6000 Ada dual-slot configuration while maintaining PCIe Gen5 full speeds?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad E16 Gen 2 Intel support 2.5Gb Ethernet when using a compatible USB-C hub?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors support a 21:9 ultrawide aspect ratio with USB-C docking?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the 300w Gen 5 Chromebook support both HDMI via adapter and dual external displays simultaneously?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the max supported memory on the ThinkBook 14 G8, and does mixing 5600MT/s and 4800MT/s RAM downclock the system?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad P1 Gen 7 allow custom GPU undervolt profiles, or is power management firmware-locked?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPads support OLED touch displays with 120Hz refresh rates?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkCentre M90q Gen 6 offer optional serial/parallel legacy I/O modules?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision professional monitors support hardware-level KVM and color uniformity compensation?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad Z16 Gen 2 support RAID 0 configurations with dual NVMe SSDs?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the P1 Gen 8 certified for VR workflows when equipped with the RTX 3000 Ada GPU?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad X13 Gen 5 support full 100W USB-C charging on both USB4 ports or only one?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad models allow field-replaceable keyboards versus those that require disassembling the entire top cover?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkBook 15 G7 support dual-channel memory when only one DIMM slot is populated?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the peak brightness of the Dolby Vision panel option on the ThinkPad X1 Extreme Gen 6?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad P-series models support both NVIDIA professional GPUs and consumer GeForce options?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkCentre M75s Gen 4 support dual 2.5Gb Ethernet NICs via PCIe expansion?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Lenovo Tab P12 Pro support DisplayPort Alt Mode over USB-C and at what maximum resolution?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkVision monitors support 165Hz or higher refresh rates for workstation-class setups?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the ThinkPad L16 Gen 2 compatible with Lenovo's 135W USB-C docking stations for dual 4K output?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad T14 Gen 6 AMD support LPDDR5x at 7500MT/s or only 6400MT/s for certain SKUs?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkStation P-series models allow end-user GPU upgrades without removing the CPU cooler or motherboard?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Yoga 7i Gen 9 offer a 2.8K OLED option with 90Hz refresh?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad X1 Extreme Gen 7 support dual-SSD RAID configurations when equipped with both the NVIDIA RTX 4070 and the high-resolution 3.2K mini-LED display, or does thermal allocation limit storage options?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which ThinkPad T16 Gen 3 Intel models include panel self-refresh (PSR) support, and does enabling PSR affect external monitor refresh rates when docking?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Is the ThinkBook 16p Gen 5 capable of sustaining full 100W USB-C charging during heavy GPU workloads, or does the system automatically fall back to the barrel-plug adapter to maintain performance?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Which configurations of the ThinkCentre M60q Gen 5 allow installation of both a 2.5'' SATA drive and a PCIe Gen4 x4 NVMe SSD without requiring optional daughtercards?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the ThinkPad L15 Gen 6 Intel provide native support for HDR content on its 300-nit IPS panels, or is HDR limited to the 500-nit variants only?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Can the ThinkPad X1 Nano Gen 4 drive an external 6K display at 60Hz over USB4 while simultaneously outputting to its internal 2K panel without bandwidth downscaling?"
+  },
+  {
+    "category": "PSREF",
+    "question": "What is the maximum supported memory speed on the ThinkStation P3 Ultra Gen 2 when configured with a Core i9 versus a Core i5 CPU, and does speed vary across DIMM population?"
+  },
+  {
+    "category": "PSREF",
+    "question": "Does the Lenovo Tab M13 support USB-C DP Alt-Mode for dual-display projection in desktop-style apps, or is external output limited to mirrored mode only?"
+  },
+  {
+    "category": "PSREF",
+    "question": "For the ThinkVision T32h-30, does the USB-C upstream port maintain full 1Gb Ethernet functionality when daisy-chaining a second display, or does network throughput drop under MST load?"
+  }
+]
